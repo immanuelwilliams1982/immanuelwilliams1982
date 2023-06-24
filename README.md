@@ -1,7 +1,7 @@
 - 👋 Hi, I’m IMMANUEL WILLIAMS
 - 👀 I’m interested in psychology
 - 🌱 I’m currently learning psychological counseling
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on Neuromorphic Chipset Design
 - 📫 How to reach me immanuelwilliams1982@outlook.com
 
 <!---
